@@ -91,5 +91,3 @@ class FakeDocker
     end
   end
 end
-
-main
